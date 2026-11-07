@@ -22,7 +22,7 @@ const Contact = () => {
             <p className="text-[15px] text-[#fff] mt-[30px]">
               {t("contact.tel")}
             </p>
-            <div className="text-[15px] text-[#fff] mt-[5px] space-y-[8px]">
+            <div className="text-[15px] text-[#f8f8f8] mt-[5px] space-y-[8px]">
               <p>
                 <a href="tel:+998993005700" className="hover:underline flex items-center gap-2">
                   📞 +998 99 300 57 00
